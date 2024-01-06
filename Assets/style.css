@@ -23,6 +23,7 @@ nav ul {
   padding: 0px;
   background-color: darkgray;
   overflow: hidden;
+  border: 6px solid lightgray;
 } 
 
 nav li {
@@ -31,16 +32,8 @@ nav li {
     text-align: center;
     padding: 15px 100px;
     text-decoration: none;
-    border: 3px solid lightgray;
+    border: 0px solid lightgray;
     float:left
-}
-
-nav li:first-child {
-    border-left: 2px solid lightgray;
-}
-  
-nav li:last-child {
-    border-right: 2px solid lightgray;
 }
 
 .footer {
@@ -50,4 +43,10 @@ nav li:last-child {
     color: black;
     font-size: 12px;
     padding: 10px;
+}
+
+.content {
+    float: center;
+    margin: 0px;
+    padding: 0px;
 }
