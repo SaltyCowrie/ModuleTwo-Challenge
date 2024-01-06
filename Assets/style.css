@@ -1,5 +1,6 @@
 * {
-    padding: 0
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -20,26 +21,26 @@ nav ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  background-color: white;
+  background-color: darkgray;
   overflow: hidden;
 } 
 
 nav li {
     display: block;
-    background-color: beige;
+    background-color: darkgray;
     text-align: center;
     padding: 15px 100px;
     text-decoration: none;
-    border: 3px solid black;
+    border: 3px solid lightgray;
     float:left
 }
 
 nav li:first-child {
-    border-left: 2px solid black;
+    border-left: 2px solid lightgray;
 }
   
 nav li:last-child {
-    border-right: 2px solid black;
+    border-right: 2px solid lightgray;
 }
 
 .footer {
