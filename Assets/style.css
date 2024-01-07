@@ -36,9 +36,10 @@ nav li {
     float:left
 }
 
-.hero-image {
+img {
     width: 100%;
     background-size: auto;
+    overflow: hidden;
     background-image: url(.assets/images/Fern-img.jpeg);
 }
 
