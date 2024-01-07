@@ -36,11 +36,11 @@ nav li {
     float:left
 }
 
-img {
+.fern-img {
     width: 100%;
     background-size: auto;
     overflow: hidden;
-    background-image: url(.assets/images/Fern-img.jpeg);
+    background-image: url(./images/Fern-img.jpeg);
 }
 
 .footer {
