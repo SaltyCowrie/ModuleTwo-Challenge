@@ -21,14 +21,14 @@ nav ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  background-color: cornsilk;
+  background-color: beige;
   overflow: hidden;
   border: 6px solid tan;
 } 
 
 nav li {
     display: block;
-    background-color: cornsilk;
+    background-color: beige;
     text-align: center;
     padding: 15px 150px;
     text-decoration: none;
@@ -67,7 +67,7 @@ a:hover {
 .footer {
     padding: 20px;
     text-align: center;
-    background: cornsilk;
+    background: beige;
     color: black;
     font-size: 12px;
     padding: 10px;
