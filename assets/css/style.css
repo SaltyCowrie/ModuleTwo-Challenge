@@ -18,7 +18,6 @@ body {
 }
 
 nav ul {
-  list-style-type: none;
   margin: 0px;
   padding: 0px;
   background-color: beige;
@@ -50,12 +49,13 @@ a:hover {
 
 .fern-img {
     width: 100%;
-    height: 750px;
+    height: 600px;
     overflow: hidden;
 }
 
-.content {
-    width: 100%;
+.content img {
+    width: 100px;
+    height: 100px;
 }
 
 .card {
