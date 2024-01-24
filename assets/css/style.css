@@ -15,6 +15,7 @@ body {
     color: black;
     font-size: 30px;
     padding: 10px;
+    border: 3px solid gray;
 }
 
 nav ul {
@@ -47,26 +48,30 @@ a:hover {
     color: tan;
 }
 
-.fern-img {
-    width: 100%;
-    height: 600px;
-    overflow: hidden;
-}
-
-.content img {
-    width: 100px;
-    height: 100px;
-}
-
 .card {
-    margin: 3px;
+    margin: 5px 5px;
     padding: 10px;
     height: 200px;
     width: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: beige;
     color: black;
-    border: 5px solid tan;
+    border: 5px solid gray;
+    border-radius: 3px;
+}
+
+.card img {
+    border: 3px solid white;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 5px 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.card img:hover {
+    background: gray;
+    color: tan;
 }
 
 .footer {
@@ -76,4 +81,5 @@ a:hover {
     color: black;
     font-size: 12px;
     padding: 10px;
+    border: 3px solid gray;
 }
