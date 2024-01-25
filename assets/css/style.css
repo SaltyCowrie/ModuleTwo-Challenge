@@ -8,31 +8,40 @@ body {
    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
 }
 
-.header {
-    padding: 40px;
+.header h1 {
+    padding: 20px;
     text-align: left;
     background: beige;
     color: black;
-    font-size: 30px;
-    padding: 10px;
-    border: 3px solid gray;
+    font-size: 50px;
+    border: 5px solid gray;
+    border-radius: 3px;
+    text-decoration: underline;
 }
 
-nav ul {
-  margin: 0px;
-  padding: 0px;
+.header h3 {
+    text-decoration: wavy;
+    font-weight: 500;
+    color: black;
+    border: 3px solid tan;
+    border-radius: 3px;
+}
+
+.a ul {
   background-color: beige;
+  border: 5px solid gray;
+  border-radius: 3px;
   overflow: hidden;
-  border: 6px solid tan;
+  padding: 15px;
+  font-weight: 500;
 } 
 
-nav li {
+.a li {
     display: block;
     background-color: beige;
-    text-align: center;
-    padding: 15px 150px;
     text-decoration: none;
-    float:left
+    float: left;
+    padding-left: 250px;
 }
 
 a:link {
@@ -51,7 +60,7 @@ a:hover {
 .card {
     margin: 5px 5px;
     padding: 10px;
-    height: 200px;
+    height: 250px;
     width: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: beige;
@@ -60,18 +69,29 @@ a:hover {
     border-radius: 3px;
 }
 
+#about p {
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#contact p {
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+
 .card img {
-    border: 3px solid white;
+    border: 3px solid black;
     border-radius: 3px;
     padding: 10px;
-    margin: 5px 5px;
-    width: 100px;
-    height: 100px;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
 }
 
 .card img:hover {
-    background: gray;
-    color: tan;
+    background-color: tan;
 }
 
 .footer {
@@ -81,5 +101,5 @@ a:hover {
     color: black;
     font-size: 12px;
     padding: 10px;
-    border: 3px solid gray;
+    border: 5px solid gray;
 }
