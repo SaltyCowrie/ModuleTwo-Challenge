@@ -13,10 +13,9 @@ https://saltycowrie.github.io/moduleTwoChallenge/
 
 <img width="1470" alt="Screenshot 2024-02-19 at 7 48 26 PM" src="https://github.com/SaltyCowrie/moduleTwoChallenge/assets/150820140/7e940919-e354-436f-9743-f0de1127747a">
 
-<img width="1470" alt="Screenshot 2024-02-19 at 7 46 58 PM" src="https://github.com/SaltyCowrie/moduleTwoChallenge/assets/150820140/ea9126d3-036b-46ad-ad25-82da4e8aec21">
+<img width="1470" alt="Screenshot 2024-02-20 at 7 47 12 AM" src="https://github.com/SaltyCowrie/moduleTwoChallenge/assets/150820140/2a19f521-b822-4007-90de-6c1dc98e43f7">
 
-<img width="1470" alt="Screenshot 2024-02-19 at 7 52 01 PM" src="https://github.com/SaltyCowrie/moduleThreeChallenge/assets/150820140/586f2bd9-dab4-4989-9cfd-f4bb563cc47c">
-
+<img width="1470" alt="Screenshot 2024-02-20 at 7 47 14 AM" src="https://github.com/SaltyCowrie/moduleTwoChallenge/assets/150820140/b9707525-0dd7-4a81-a07e-8ba70391acbd">
 
 ## Credit
 
